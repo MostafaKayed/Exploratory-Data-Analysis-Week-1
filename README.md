@@ -1,11 +1,8 @@
 #Mostafa Nasser Mahmoud
 Exploratory_Data_Analysis_project1
 Loading the data
-
 Making Plots
-
 For each plot you should
-
 Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels. 
 Name each of the plot files as \color{red}{\verb|plot1.png|}plot1.png, \color{red}{\verb|plot2.png|}plot2.png, etc. 
 Create a separate R code file (\color{red}{\verb|plot1.R|}plot1.R, \color{red}{\verb|plot2.R|}plot2.R, etc.) 
